@@ -30,3 +30,7 @@
     * Finally, you can push the commit to the master branch or whichever branch you made to edit on. To do this, type ```git push -u origin master```. 
 * Then all that's left is to refresh the page to see your changes and make other changes as necessary and repeat adding, committing, and pushing the changes to the repository. 
 
+
+---
+Click [here](https://github.com/byu26/IT1000) to go back to the main page.
+
