@@ -4,7 +4,8 @@
 
 Click [here](https://missouri.edu) to go to Mizzou's website
 
-Click [README](https://github.com/byu26/IT2600-Git-GitHub-and-Markdown/blob/master/README.md) for the README
+Click [here](https://github.com/byu26/IT1000) to go back to the main page.
+
 
 ![Digital Systems](/DigitalSystems.jpg "Digital Systems Picture")
 
@@ -14,8 +15,8 @@ Click [README](https://github.com/byu26/IT2600-Git-GitHub-and-Markdown/blob/mast
 `Console.WriteLine("Syntax for Console.WriteLine Method in C#")`
 
 >This is the start of the block quote.
->"Imagination is more important than knowledge."
->-Albert Einstein
+> "Imagination is more important than knowledge."
+> -Albert Einstein
 
 * Bullet 1
 * Bullet 2
