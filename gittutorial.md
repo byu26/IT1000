@@ -34,3 +34,7 @@
 ---
 Click [here](https://github.com/byu26/IT1000) to go back to the main page.
 
+---
+
+###### Bryan Yu
+
